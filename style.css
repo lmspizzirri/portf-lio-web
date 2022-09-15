@@ -1,0 +1,29 @@
+
+            h1 {
+                font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            }
+            img{
+                font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            }
+            body{
+                background-color: skyblue;
+            }
+            li.py{
+                font-size: 30px;
+            }
+            li.sq{
+                font-size: 28px;
+            }
+            li.en{
+                font-size: 26px;
+            }
+            li.co{
+                font-size: 24px;
+            }
+            li.sd{
+                font-size: 22px;
+            }    
+
+    
+            
+    
